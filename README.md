@@ -14,7 +14,7 @@
     <tr>
         <td>Python 后端工程师</td>
         <td><a target=”_blank” href="https://whimsical.com/python-KDfKsLGvTSMthqiWvFbXoh">在线浏览</a></td>
-        <td>更新中</td>
+        <td>✅</td>
         <td>更新中</td>
     </tr>
     <tr>
